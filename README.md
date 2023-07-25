@@ -9,9 +9,9 @@ Version: 1.0
 How To Install & Run?
 
 1. Run CMD
-   - ```git clone https://github.com/Pytholearn/HAZARD-Free-Copy-v1.2```
+   - ```git clone https://github.com/Pytholearn/HAZARD-FPASS-v1.0```
      - Wiat For Install All Library
-        - ```cd HAZARD-Free-Copy-v1.2 ```
+        - ```cd HAZARD-FPASS-v1.0 ```
            -  ```cd HAZARD-Free-Copy-v1.2 ```
               - ```setup.bat ```
               - Wait For Complete Install
