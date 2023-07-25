@@ -16,10 +16,11 @@ How To Install & Run?
               - ```setup.bat ```
               - Wait For Complete Install
 
+*NOTE: You can download the file from this page and place it where you want*
 
->Enter Target Wifi Name
+>Enter Target Wifi Name✨
 >Enter loc Password list(If the password list file exists in the tool folder itself
-Just enter its name along with its extension)
+Just enter its name along with its extension)✨
 
 Discord: https://discord.gg/xbN3XSHYjx
 
