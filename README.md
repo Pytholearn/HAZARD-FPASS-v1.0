@@ -28,4 +28,4 @@ YouTube https://www.youtube.com/channel/UCFhRw24axi5gfa7ZLVe49_w
 Made by : HaZaRd#4058
 
 
-![image](https://cdn.discordapp.com/attachments/1136456945671344221/1138586770993336430/image.png)
+![image](https://github.com/Pytholearn/FPASS/assets/109828387/a33bf369-5a7f-45b4-bde7-7a600780ea83)
